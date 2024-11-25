@@ -1,5 +1,5 @@
 use glam::*;
-
+/// dfgihs^piohj^f
 /// A 2D rectangle, defined by its top-left corner, width and height.
 #[derive(Clone, Copy, Debug, Default, PartialEq)]
 pub struct Rect {
